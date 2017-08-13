@@ -1,0 +1,37 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: content-box;
+}
+
+.tit {
+	width: 1100px;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	padding: 20px 0;
+}
+
+.titw {
+	float: left;
+	width: 222px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #1860cd;
+	font-size: 34px;
+}
+
+.titheng {
+	width: 439px;
+	height: 40px;
+	float: left;
+}
+
+.titheng hr {
+	margin-top: 19px;
+	width: 439px;
+	height: 2px;
+	background-color: #dedede;
+	border: none;
+}

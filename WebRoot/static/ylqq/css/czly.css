@@ -1,0 +1,74 @@
+.czlywrap {
+	width: 100%;
+}
+
+.czly {
+	width: 1100px;
+	margin: 20px auto 0;
+}
+
+.czlycon {
+	width: 1100px;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+.czlycontype {
+	width: 538px;
+	float: left;
+	padding-left: 12px;
+}
+
+.czlycontypetit {
+	width: 538px;
+	text-align: left;
+	height: 40px;
+	font-size: 20px;
+	color: #1860cd;
+	line-height: 60px;
+	margin-bottom: 20px;
+}
+
+.czlycontypetit img {
+	margin-bottom: 10px;
+	margin-right: 20px;
+}
+
+.czlyxq {
+	width: 538px;
+}
+
+.czlyxqlist {
+	width: 538px;
+	height: 110px;
+}
+
+.czlyxqico {
+	width: 80px;
+	height: 110px;
+	float: left;
+	text-align: center;
+}
+
+.czlyxqcon {
+	width: 423px;
+	height: 110px;
+	float: left;
+	padding-right: 35px;
+}
+
+.czlyxqtit {
+	width: 423px;
+	height: 40px;
+	line-height: 40px;
+	color: #ef3030;
+	font-size: 18px;
+	text-align: left;
+}
+
+.czlyxqc {
+	color: #666;
+	font-size: 14px;
+	line-height: 16px;
+	text-align: left;
+}

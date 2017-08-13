@@ -1,0 +1,38 @@
+.jchdcon {
+	width: 1100px;
+	overflow: hidden;
+	height: 372px;
+	position: relative;
+}
+
+.jchdcon ul {
+	width: 2520px;
+	position: absolute;
+	height: 372px;
+}
+
+.jchdcon ul li {
+	width: 260px;
+	height: 372px;
+	margin: 20px 20px 0 0;
+	float: left;
+	position: relative;
+}
+
+.jchdcon ul img {
+	width: 260px;
+	margin: 20px 20px 0 0;
+	display: block;
+}
+
+.jchd {
+	width: 1100px;
+	margin: 30px auto 0;
+}
+
+.jchdwrap {
+	width: 100%;
+	background: url(../jchdimg/jchdback_02.png);
+	padding-bottom: 40px;
+	background-position: center;
+}

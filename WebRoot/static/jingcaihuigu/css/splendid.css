@@ -1,0 +1,229 @@
+.allwrap{
+  width: 100%;
+  background: url(../images/background_02.jpg) no-repeat fixed center top;
+}
+/*顶部展示*/
+.topshow{
+  width: 1100px;
+  height: 899px;
+  margin: 0 auto;
+}
+/*顶部菜单*/
+.toptit{
+  width: 1100px;
+  height: 64px;
+  margin: 0 auto;
+  background: #270067;
+  z-index: 99999;
+}
+.toptit li{
+  width: 275px;
+  height: 64px;
+  float: left;
+  text-align: center;
+  position: relative;
+}
+.toptit li a{
+  color: #fff;
+  line-height: 64px;
+  font-size: 20px;
+}
+.toptit li a img{
+  display: block;
+  position: absolute;
+  left:66px;
+}
+/*大会议程*/
+.edition{
+  width: 1100px;
+  margin: 8px auto 0;
+}
+.splendidtit{
+  width: 1100px;
+  height: 70px;
+  line-height: 70px;
+  text-align: left;
+  color: #fff;
+  font-size: 30px;
+}
+.editioncon{
+  width: 1100px;
+  height: 470px;
+  overflow: auto;
+}
+.editionconl{
+  width: 178px;
+  height: 980px;
+  float: left;
+  position: relative;
+}
+.editionconlzz{
+  position: absolute;
+  width: 2px;
+  height: 920px;
+  background: #fff152;
+  right: 24px;
+  top:25px;
+}
+.timenum{
+  width: 110px;
+  height: 30px;
+  line-height: 30px;
+  line-height: 30px;
+  color: #fff152;
+  position: absolute;
+  font-size: 16px;
+  right: 34px;
+}
+#time1{
+  top:92px;
+}
+#time2{
+  top:192px;
+}
+#time3{
+  top:292px;
+}
+#time4{
+  top:392px;
+}
+#time5{
+  top:562px;
+}
+#time6{
+  top:662px;
+}
+#time7{
+  top:832px;
+}
+#time8{
+  top:932px;
+}
+.timedot{
+  position: absolute;
+  right: 19px;
+}
+#dot1{
+  top:20px;
+}
+#dot2{
+  top:101px;
+}
+#dot3{
+  top:201px;
+}
+#dot4{
+  top:301px;
+}
+#dot5{
+  top:401px;
+}
+#dot6{
+  top:491px;
+}
+#dot7{
+  top:571px;
+}
+#dot8{
+  top:671px;
+}
+#dot9{
+  top:761px;
+}
+#dot10{
+  top:841px;
+}
+#dot11{
+  top:941px;
+}
+.editionconr{
+  width: 860px;
+  float: left;
+}
+.editionconrtype1{
+  width: 830px;
+  height: 50px;
+  line-height: 50px;
+  text-align: left;
+  border-radius: 5px;
+  background: #fff152;
+  color: #000;
+  font-size: 20px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+.editionconrtype2{
+  width: 830px;
+  height: 80px;
+  line-height: 80px;
+  text-align: left;
+  border-radius: 5px;
+  background: #fff;
+  color: #000;
+  font-size: 18px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+.editionconrtype3{
+  width: 830px;
+  height: 62px;
+  line-height: 25px;
+  text-align: left;
+  border-radius: 5px;
+  background: #fff;
+  color: #000;
+  font-size: 18px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+  padding-top: 18px;
+}
+
+
+/*企业库*/
+.firm{
+  width: 1100px;
+  margin: 8px auto 0;
+  padding-bottom: 30px;
+}
+.firmcon{
+  width: 1100px;
+  height: 260px;
+  background: #fff;
+  padding-top:40px;
+}
+.firmconl{
+  padding-left: 12px;
+  width: 494px;
+  height: 260px;
+  float: left;
+}
+.firmconr{
+  width: 520px;
+  float: left;
+  padding: 0 18px 0 56px;
+  text-align: left;
+}
+.firmconrtit{
+  width: 520px;
+  height: 56px;
+  line-height: 56px;
+  color: #333;
+  font-size: 24px;
+}
+.firmconrcon{
+  width:520px;
+  height: 120px;
+  margin-top: 12px;
+  line-height: 26px;
+  font-size: 18px;
+  color: #666;
+}
+.firmconrproduct{
+  width: 520px;
+  line-height: 20px;
+}
+.firmconrproduct a{
+
+  color: #0f5bcd;
+  font-size: 14px;
+}

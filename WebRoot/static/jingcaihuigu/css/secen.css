@@ -1,0 +1,70 @@
+.scene{
+  width: 1100px;
+  margin: 8px auto 0;
+}
+.scenecon{
+  width: 900px;
+  height: 690px;
+  background: #fff;
+  padding: 30px 100px 0;
+  position: relative;
+}
+.scenepciwrap{
+  width: 900px;
+  height: 540px;
+  overflow: hidden;
+}
+.scenepic{
+  width: 900px;
+  height: 540px;
+}
+.scenepciwrap li{
+  width: 900px;
+  height: 540px;
+  display: none;
+}
+.picactive{
+  border: 1px solid #3c75ff;
+  box-sizing: border-box;
+}
+.scenepciwrap li img{
+  width: 100%;
+}
+.scenepciswrap{
+  width: 900px;
+  height: 85px;
+  margin-top: 30px;
+  overflow: hidden;
+  position: relative;
+}
+.scenepcis{
+  width: 4560px;
+  height: 85px;
+  position: absolute;
+}
+.scenepcis li{
+  width: 140px;
+  height: 85px;
+  margin-right:12px;
+  float: left;
+}
+.scenepcis li:hover{
+  cursor: pointer;
+}
+.scenepcis li img{
+  width: 100%;
+}
+.scenebtn{
+  display: block;
+  position: absolute;
+  bottom:66px;
+}
+.scenebtn:hover{
+  cursor: pointer;
+}
+#scenebtnl{
+  left: 60px;
+}
+#scenebtnr{
+  right: 60px;
+}

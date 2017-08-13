@@ -1,0 +1,61 @@
+.bannerwrap {
+	width: 100%;
+	position: relative;
+}
+
+.banner {
+	width: 100%;
+	overflow: hidden;
+}
+
+.banner li {
+	width: 100%;
+	display: none;
+}
+
+.banner li img {
+	display: block;
+	width: 100%;
+}
+
+.yhsybtn {
+	position: absolute;
+	top: 50%;
+	margin-top: -20px;
+}
+
+.yhsybtn:hover {
+	cursor: pointer;
+}
+
+#yhsybtnl {
+	left: 10px;
+}
+
+#yhsybtnr {
+	right: 10px;
+}
+
+.yhsytab {
+	position: absolute;
+	bottom: 10%;
+	right: 6%;
+	overflow: hidden;
+}
+
+.yhsytab li {
+	width: 15px;
+	height: 15px;
+	background: #898989;
+	border-radius: 8px;
+	float: left;
+	margin-right: 10px;
+}
+
+.yhsytab li.active {
+	background: #fff;
+}
+
+.yhsytab li:last-child {
+	margin: 0;
+}

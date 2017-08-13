@@ -1,0 +1,188 @@
+.hyzx {
+	width: 1100px;
+	margin: 30px auto 0;
+	overflow: hidden;
+}
+
+.hyzxl {
+	width: 790px;
+	float: left;
+	padding-bottom: 15px;
+}
+
+.hyzxltit {
+	width: 790px;
+	height: 55px;
+	line-height: 55px;
+	text-align: left;
+	color: #1860cd;
+	font-size: 34px;
+}
+
+.hyzxltit img {
+	float: right;
+	margin-top: 20px;
+}
+
+.hyzxlcon {
+	width: 790px;
+}
+
+.hyzxlcon li {
+	width: 790px;
+	height: 100px;
+	padding-bottom: 10px;
+	text-align: left;
+	overflow: hidden;
+	border-bottom: 1px solid #eee;
+	margin-top: 12px;
+}
+
+.hyzxlconl {
+	float: left;
+	width: 120px;
+	height: 100px;
+}
+
+.hyzxlconr {
+	width: 666px;
+	float: left;
+}
+
+.hyzxlconrtit {
+	color: #333;
+	font-size: 24px;
+	box-sizing: border-box;
+	padding: 8px 0px 15px 15px;
+}
+
+.hyzxlconrcon {
+	color: #666;
+	font-size: 16px;
+	box-sizing: border-box;
+	padding-left: 15px;
+	line-height: 26px;
+}
+
+.hyzxr {
+	width: 290px;
+	float: left;
+	height: 369px;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.hyzxrtit {
+	width: 290px;
+	height: 55px;
+	line-height: 55px;
+	color: #abd9cd;
+	font-size: 24px;
+}
+
+.hyzxconr {
+	width: 290px;
+	float: right;
+	position: relative;
+}
+
+.hyzxconrcon {
+	width: 290px;
+	margin-top: 20px;
+}
+
+.hyzxconrtit {
+	width: 290px;
+	height: 40px;
+}
+
+.btnbottom {
+	width: 18px;
+	height: 10px;
+	float: right;
+	margin-top: 14px;
+	background: url(../images/botjiantou.png)
+}
+
+.btntop {
+	width: 18px;
+	height: 10px;
+	float: right;
+	margin-top: 14px;
+	background: url(../images/topjiantou.png)
+}
+
+.hyzxconalways {
+	width: 234px;
+	padding: 0 38px 0 18px;
+	height: 40px;
+	float: right;
+	background: url(../images/ylqback1_03.png);
+}
+
+.hyzxconactive {
+	width: 234px;
+	padding: 0 38px 0 18px;
+	height: 40px;
+	float: right;
+	background: url(../images/ylqback2_03.png);
+}
+
+.titico {
+	display: block;
+	float: left;
+	margin: 10px 18px 0 0;
+}
+
+.hyzxtitiw {
+	display: block;
+	float: left;
+	color: #fff;
+	font-size: 18px;
+	height: 40px;
+	line-height: 40px;
+}
+
+.hyzxconrc1 {
+	width: 270px;
+	line-height: 25px;
+	font-size: 16px;
+	color: #666;
+	border-bottom: 1px solid #f4f4f4;
+	text-align: left;
+	margin-top: 10px;
+	position: relative;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+.hyzxconrc1 img {
+	position: absolute;
+	display: block;
+	left: 0;
+	top: 4px;
+}
+
+.hyzxconrc2 {
+	width: 270px;
+	line-height: 50px;
+	font-size: 16px;
+	color: #666;
+	text-align: left;
+	padding-left: 20px;
+	position: relative;
+	padding-bottom: 10px;
+}
+
+.hyzxconrc2 img {
+	position: absolute;
+	display: block;
+	left: 0;
+	top: 18px;
+}
+
+.hyzxconrc {
+	width: 290px;
+	background: #fff;
+	display: none;
+}

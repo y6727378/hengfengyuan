@@ -1,0 +1,54 @@
+.czswrap {
+	width: 100%;
+}
+
+.czs {
+	width: 1100px;
+	margin: 30px auto 0;
+}
+
+.czscon {
+	margin-top: 20px;
+	width: 1100px;
+	overflow: hidden;
+}
+
+.czsconl {
+	width: 550px;
+	float: left;
+	text-align: left;
+}
+
+.czsconr {
+	float: right;
+	width: 550px;
+	text-align: left;
+}
+
+.czsconrtit {
+	width: 550px;
+	height: 60px;
+	line-height: 60px;
+	color: #333;
+	font-size: 24px;
+}
+
+.czsconrcon {
+	width: 530px;
+	padding-right: 20px;
+	line-height: 28px;
+	color: #666;
+	font-size: 18px;
+}
+
+.czsconrhref {
+	width: 550px;
+	height: 20px;
+	line-height: 20px;
+	margin-top: 40px;
+}
+
+.czsconrhref a {
+	color: #0f5bcd;
+	font-size: 14px;
+}

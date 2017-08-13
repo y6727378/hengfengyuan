@@ -1,0 +1,70 @@
+/* 切换按钮 */
+    /* 上一个 */
+.osSlider-main .slider-btn-prev {
+    position: absolute;
+    z-index: 30;
+    top: 50%;
+    left: -45px;
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+    margin-top: -20px;
+    background: url(./img/banabtnl.png) 50% 50% no-repeat;
+    transition: all .5s linear;
+}
+
+.osSlider-main:hover .slider-btn-prev {
+    left: 5px;
+}
+    /* 下一个 */
+.osSlider-main .slider-btn-next {
+    position: absolute;
+    z-index: 30;
+    top: 50%;
+    right: -45px;
+    width: 40px;
+    height: 40px;
+    text-indent: -9999px;
+    margin-top: -20px;
+    background: url(./img/banabtnr.png) 50% 50% no-repeat;
+    transition: all .5s linear;
+}
+
+.osSlider-main:hover .slider-btn-next {
+    right: 5px;
+}
+
+/* 高亮导航部分 */
+.osSlider-main .slider-nav {
+    position: absolute;
+    width:15%;
+    height: 22px;
+    bottom: 30px;
+    right: 30px;
+    text-align: right;
+    z-index: 25;
+    overflow: hidden;
+}
+.osSlider-main .slider-nav li {
+    width: 20px;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    margin: 0 6px;
+    font-size: 12px;
+    color: #eee;
+    border: 1px solid #eee;
+    background: none;
+    cursor: pointer;
+    border-radius: 50%;
+    float: left;
+    text-align: center;
+}
+.osSlider-main .slider-nav li.active {
+    color: #333;
+    background: #eee;
+}
+/*.osSlider-main .slider-nav li:hover {
+    border: 1px solid #f60;
+    background: #f60;
+}*/

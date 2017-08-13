@@ -1,0 +1,49 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: content-box;
+}
+
+div, dl, dt, dd, form, h1, h2, h3, h4, h5, h6, img, ol, ul, li, table,
+	th, td, p, span, a {
+	border: 0;
+}
+
+img, input {
+	border: none;
+}
+
+body {
+	font-family: "Microsoft YaHei", Tahoma, Arial, Helvetica,;
+	font-size: 12px;
+	text-align: center;
+	background: #fdfdfd;
+}
+
+ul, ol {
+	list-style-type: none;
+}
+
+button {
+	border: none;
+	cursor: pointer;
+	font-size: 12px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+	font-size: 14px;
+}
+
+input, button, select, textarea {
+	outline: none;
+}
+
+textarea {
+	resize: none;
+}

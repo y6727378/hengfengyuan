@@ -1,0 +1,81 @@
+* {
+	font-family: "Microsoft YaHei" ! important;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: content-box;
+}
+
+li {
+	list-style: none;
+}
+
+.footstatecon {
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-top: 40px;
+}
+
+.footstateleft {
+	float: left;
+	width: 270px;
+}
+
+.footstate1 {
+	width: 270px;
+	margin-bottom: 10px;
+}
+
+.footstatelefttit {
+	padding: 10px;
+	background: #30A2EE;
+	font-size: 18px;
+	color: #fff;
+	text-align: left;
+}
+
+.footstateleftlist {
+	border: 1px solid #c9c9c9;
+}
+
+.footstateleftlist li {
+	width: 270px;
+	height: 35px;
+	line-height: 35px;
+	text-align: left;
+}
+
+.footstateleftlist li a {
+	display: block;
+	line-height: 15px;
+	padding: 10px;
+	border-bottom: 1px solid #c9c9c9;
+	font-size: 12px
+}
+
+.footstateleftlist li a:hover {
+	color: #3c75ff;
+	cursor: pointer;
+}
+
+.footstateright {
+	width: 900px;
+	float: right;
+}
+
+.footstaterighttit {
+	width: 900px;
+	height: 33px;
+	padding-bottom: 10px;
+	font-size: 24px;
+	font-weight: 300;
+	border-bottom: 1px dashed #797979;
+	margin-bottom: 20px;
+}
+
+.footstaterightcon {
+	width: 900px;
+	line-height: 20px;
+	font-size: 12px;
+	color: #000;
+}

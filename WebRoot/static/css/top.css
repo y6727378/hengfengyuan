@@ -1,0 +1,92 @@
+.topwrap {
+	width: 100%;
+	height: 28px;
+	background: #2f92e3;
+}
+
+.top {
+	width: 1100px;
+	height: 28px;
+	margin: 0 auto;
+	line-height: 28px;
+	color: #fff;
+	font-size: 12px;
+}
+
+.herfshy {
+	width: 107px;
+	height: 28px;
+	background: #105a97;
+	float: left;
+	text-align: center;
+	margin-right: 60px;
+}
+
+.top .herfshy a {
+	font-size: 14px;
+}
+
+.top a {
+	font-size: 12px;
+	color: #fff;
+}
+
+.top a:link {
+	color: #fff;
+}
+
+.loginwrap {
+	float: left;
+	height: 28px;
+}
+
+.wel {
+	float: left;
+	height: 28px;
+	margin-right: 38px;
+}
+
+.login {
+	float: left;
+	margin-right: 14px;
+}
+
+.reg {
+	float: left;
+}
+
+.toplistwrap {
+	float: right;
+}
+
+.toplist {
+	float: left;
+	position: relative;
+	margin-right: 22px;
+}
+
+.toplist i {
+	width: 1px;
+	height: 16px;
+	background: #92ceff;
+	position: absolute;
+	right: 0px;
+	top: 6px;
+}
+
+.toplist li {
+	float: left;
+	position: relative;
+}
+
+.toplist li a {
+	padding: 0 16px;
+}
+
+.topphone {
+	float: left;
+}
+
+.topphone img {
+	margin-top: -6px;
+}

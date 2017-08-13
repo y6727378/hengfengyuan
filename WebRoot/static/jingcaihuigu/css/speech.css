@@ -1,0 +1,86 @@
+.speech{
+  width: 1100px;
+  margin: 8px auto 0;
+}
+.speechwrap{
+  width: 1100px;
+  height: 750px;
+  background: #fff;
+  position: relative;
+}
+.speechcon{
+  width: 1100px;
+  height: 690px;
+  display: none;
+}
+.speechcon li{
+  width: 275px;
+  height: 345px;
+  float: left;
+}
+.speechcon li:hover{
+  cursor: pointer;
+}
+.speechbtn{
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  margin-left: -50px;
+}
+.speechbtn li{
+  width: 40px;
+  height: 10px;
+  float: left;
+  margin-right: 20px;
+  background: #e1e1e1;
+  border-radius: 4px;
+}
+.speechbtn li.speechactive{
+  background: #fff152;
+}
+.speechbtn li:hover{
+  cursor: pointer;
+}
+.speechpic{
+  width: 275px;
+  height: 265px;
+}
+.speechname{
+  width: 255px;
+  height: 80px;
+  padding: 0 10px;
+  font-size: 18px;
+  color: #333;
+  text-align: left;
+}
+.speechvideowrap{
+  width: 1100px;
+  height: 500px;
+  position: absolute;
+  top:0;
+  left:0;
+  display: none;
+}
+.speechvideoback{
+  width: 1100px;
+  height: 690px;
+  background: #4b4b4b;
+  opacity: 0.5;
+}
+.speechvideo{
+  width: 800px;
+  height: 490px;
+  background: #4b4b4b;
+  position: absolute;
+  top:40px;
+  left: 150px;
+}
+.close{
+  position: absolute;
+  top:40px;
+  right: 150px;
+  z-index: 999999;
+}
+.close:hover{
+  cursor: pointer;
+}

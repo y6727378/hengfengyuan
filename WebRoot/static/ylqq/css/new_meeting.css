@@ -1,0 +1,172 @@
+.new_meetingwrap {
+	width: 100%;
+	padding: 50px 0;
+	background: #f5f5f5;
+	margin-top: 30px;
+}
+
+.new_meet {
+	width: 1100px;
+	height: 661px;
+	margin: 0 auto;
+}
+
+.new_meetl {
+	width: 828px;
+	height: 659px;
+	border: 1px solid #dcdcdc;
+	float: left;
+	background: #fff;
+}
+
+.new_meettit {
+	height: 60px;
+	border-bottom: 1px solid #f5f5f5;
+	font-size: 24px;
+	color: #333;
+	line-height: 76px;
+	text-align: left;
+}
+
+#new_meetltit {
+	width: 795px;
+	padding-left: 33px;
+}
+
+.new_meetcon {
+	width: 796px;
+	height: 265px;
+	border-bottom: 1px solid #f5f5f5;
+	padding: 33px 0 0 34px;
+}
+
+.new_meetconl {
+	width: 316px;
+	height: 265px;
+	float: left;
+	text-align: left;
+}
+
+.new_meetconlr {
+	width: 452px;
+	height: 265px;
+	padding-right: 28px;
+	float: right;
+	text-align: left;
+}
+
+.new_meetconlrtit {
+	width: 452px;
+	height: 50px;
+	font-size: 20px;
+	color: #333;
+	line-height: 25px;
+}
+
+.new_meetconlrtime {
+	width: 428px;
+	height: 34px;
+	font-size: 12px;
+	color: #f04848;
+	line-height: 34px;
+	position: relative;
+	padding-left: 24px;
+}
+
+.new_meetconlrtime img {
+	position: absolute;
+	top: 8px;
+	left: 0;
+}
+
+.new_meetconlrcon {
+	width: 452px;
+	height: 108px;
+	font-size: 14px;
+	color: #666;
+	line-height: 22px;
+}
+
+.new_meetconlrcon span {
+	font-size: 12px;
+	color: #409aca;
+}
+
+.new_meetconlrcon span:hover {
+	cursor: pointer;
+}
+
+.new_meetconlrapply {
+	width: 140px;
+	height: 44px;
+	border-radius: 4px;
+	background: #d50808;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	line-height: 44px;
+	float: left;
+}
+
+#new_meetconlrapply2 {
+	margin-left: 20px
+}
+
+.new_meetconlrapplywrap {
+	width: 452px;
+	height: 44px;
+}
+
+.new_meetr {
+	width: 248px;
+	height: 659px;
+	border: 1px solid #dcdcdc;
+	float: right;
+	background: url(../images/guideback_03.jpg)
+}
+
+#new_meetrtit {
+	padding-left: 18px;
+	width: 230px;
+}
+
+.guide {
+	width: 200px;
+	height: 30px;
+	margin: 20px auto;
+	background: url(../images/guidback_03.jpg);
+	font-size: 18px;
+	color: #1860cd;
+	line-height: 30px;
+	text-align: center;
+}
+
+.guidecon {
+	width: 200px;
+	overflow: hidden;
+	margin: 0 auto;
+	height: 108px;
+}
+
+.guideconl {
+	float: left;
+	padding-left: 4px;
+	width: 24px;
+	height: 105px;
+	margin-top: 3px;
+}
+
+.guideconr {
+	float: right;
+	width: 162px;
+	height: 105px;
+	padding-left: 10px;
+}
+
+.guideconr li {
+	height: 38px;
+	line-height: 38px;
+	font-size: 16px;
+	color: #666;
+	text-align: left;
+}
